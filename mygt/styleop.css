@@ -1,0 +1,36 @@
+body{
+    background: #eee;
+}
+
+main{
+    width: 80%;
+    background: #fff;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+    min-height: 700px;
+    padding: 20px;
+}
+
+.btn{
+    display: block;
+    width: 100px;
+    margin: 20px;
+    padding: 12px;
+    border: 1px solid #77aaaa;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 14px;
+    background: #aadddd;
+    background: -webkit-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
+    background: linear-gradient(top, #aadddd 0%, #77aaaa 100%);
+}
+
+
+.btn:hover{
+     background: #aadddd;
+    background: -webkit-linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
+    background: linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
+}

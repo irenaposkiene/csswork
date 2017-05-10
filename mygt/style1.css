@@ -1,0 +1,24 @@
+body{
+    background: #eee;
+}
+
+main{
+    width: 80%;
+    background: #fff;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+    min-height: 700px;
+    padding: 20px;
+}
+
+#c1{
+	width:400px;
+	height:400px;
+	position:absolute;
+	background:red;
+	border-radius:200px;
+	top:50px;
+	left:50px;
+	
+}

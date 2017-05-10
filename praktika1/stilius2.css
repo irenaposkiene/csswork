@@ -1,0 +1,60 @@
+
+main {
+	width:1000px;
+	height:600px;
+	background-color:sky;}
+
+header {text-align:center;
+	width:1000px;
+	height:100px;
+	font-family:Arial;
+	
+	}
+
+	h1{font-size: 2em;
+	text-shadow: 2px 2px #ff0000;
+		
+	}
+	
+	h2{font-style:italic;
+		
+	}
+
+nav{ text-align:center;
+	color:blue;
+	width:1000px;
+	height:100px;
+	background-color:yellow;
+	
+}
+.table {
+     margin-left: 100px;
+	 }
+	 
+div p {
+	color:green;
+	word-spacing:1 em;
+}
+	 
+div p span{
+	color:red;
+}	 
+.tab{
+	 padding: 30px;
+
+	height:50px;
+	width:100px;
+	background-color: gainsboro;
+}
+section {width:1000px;
+	height:300px;
+	border-style:dotted;
+	border-width:15px;
+	border-color: #ff0000 #0000ff;
+}
+
+footer{	width:1000px;
+	height:100px;
+	background-color:gainsboro;
+	 text-transform: uppercase;
+}

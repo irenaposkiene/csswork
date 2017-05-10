@@ -1,0 +1,94 @@
+
+main {
+	width:1000px;
+	height:600px;
+	background-color:green;
+	
+
+}
+.main{
+	display:block;
+	position:relative;
+}
+
+
+header {text-align:center;
+	width:1000px;
+	height:100px;
+	font-family:Arial;
+	background-color:red;
+	}
+	
+.static{
+	position:absolute;
+	background-color:pink;
+	top:0;
+	right:0;
+	display:block;
+}
+
+.relative{
+	position:relative;
+	top:-20px;
+	left:400px;
+	background-color:violet;
+	width:500px;
+	display:block;
+	z-index:3;
+}
+	h1{font-size: 2em;
+		
+	}
+	
+	h2{font-style:italic;
+		
+	}
+
+nav{ text-align:center;
+	color:blue;
+	width:1000px;
+	height:150px;
+	background-color:yellow;
+	}
+	
+nav li { list-style:none;	
+	
+}	
+
+
+section {width:1000px;
+	height:200px;
+	background-image:url(grass.jpg);
+	
+}
+
+.absolute{
+	position:absolute;
+	top:0;
+	left:0;
+	width:300px;
+	height:250px;
+	background-color:violet;
+	
+}
+
+aside{width:1000px;
+	height:100px;
+	background-color:pink;
+}
+.fixed{
+	position:absolute;
+	display:block;
+	z-index:5;
+	bottom:0px;
+	right:0;
+	width:200px;
+	background-color:blue;
+}
+
+footer{	width:1000px;
+	height:50px;
+	background-color:blue;
+	
+	
+		}

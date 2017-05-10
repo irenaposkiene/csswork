@@ -1,0 +1,60 @@
+main{
+	max-width:920px;
+	max-height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:lightgrey;
+}
+header{
+	width:920px;
+	height:50px;
+	background-color: cornflowerblue;
+}
+
+section{
+
+	background:violet;
+}
+
+.flex{
+	display:flex;
+	background-color:aliceblue;
+	flex-wrap:wrap-reverse;
+}
+
+.box{width:230px;
+	height:500px;
+	
+}
+.b1{
+	
+	background-color:yellow;
+	
+}
+
+.b2{
+	
+	background-color:green;
+	
+
+	
+}
+.b3{
+	
+	background-color:blue;
+
+	
+}
+.b4{
+	background-color:orange;
+	
+	
+	
+}
+
+
+footer{
+	width:920px;
+	height:50px;
+	background-color: cornflowerblue;
+}

@@ -1,0 +1,26 @@
+main{
+	max-width:920px;
+	max-height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	display:flex;
+	background-color:aliceblue;
+	flex-wrap:wrap;
+}
+	
+a {
+    text-decoration: none;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: lightblue;
+	background-color:violet;
+    text-align: center;
+    min-width: 200px;
+}
+a:hover {
+    background: blue;
+}
+ul {
+    list-style-type: none;
+}

@@ -1,0 +1,77 @@
+html,body{
+	
+}
+
+.a{
+	background-color:red;
+}
+p{
+	background-color:yellow;
+	letter-spacing: 1.5em;
+}
+.b{
+	height: 50px;
+	width:600px;
+	margin-top:10px;
+	background-color:green;
+	
+}
+.c{
+	text-shadow:2px 2px violet;
+}
+h3{
+	 border: 10px solid violet;
+    padding: 15px;
+
+}
+.d{
+	background-image:url(border.png);
+	width:1000px;
+	height:100px;
+	background-repeat:repeat-x;
+	
+}
+
+a:link{
+	background-color:red;
+	
+}
+
+
+a:hover{
+	background-color:yellow;
+	
+}
+
+a:visited{
+	color:blue;
+}
+
+a:active{
+	color:pink;
+}
+
+.fixed{
+	position:fixed;
+	bottom:0;
+	right:0;
+	width:200px;
+	background-color:sky;
+}
+
+.relative{
+	position:relative;
+	width:50px;
+	height:40px;
+	background-color:brown;
+}
+
+.flex{
+	display:flex;
+	
+}
+
+.box{
+	width:120px;
+	height:100px;
+}

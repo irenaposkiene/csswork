@@ -1,0 +1,49 @@
+main{
+	width:1000px;
+	height:700px;
+	background-image: url(flower.jpg);
+	
+}
+
+. main{
+	position:relative;
+	display:block;
+
+	
+	
+}
+section{width:1000px;
+	height:500px;
+	
+	
+}
+.section {
+		position:absoliute;
+		z-index:initial;
+		color:white;
+		
+}
+.text1{
+	position:absolute;
+	top:400px;
+	left:500px;
+	display:block;
+}
+.text2{
+	position:absolute;
+	top:450px;
+	left:550px;
+	display:block;
+}
+	.text3{
+	position:absolute;
+	top:500px;
+	left:600px;
+	display:block;
+	}
+	.text4{
+	position:absolute;
+	top:550px;
+	left:700px;
+	display:block;
+	}
